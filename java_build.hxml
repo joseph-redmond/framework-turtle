@@ -1,0 +1,6 @@
+-cp src
+Math
+-D analyzer-optimize
+-java build/turtle-framework-java
+#-main org.tturtle.framework.Main
+#--interp

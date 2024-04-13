@@ -1,0 +1,6 @@
+-cp src
+org.tturtle.framework.math
+-D analyzer-optimize
+-python build/turtle-framework.py
+#-main org.tturtle.framework.Main
+#--interp

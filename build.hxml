@@ -1,0 +1,4 @@
+-cp src
+-D analyzer-optimize
+-main org.tturtle.framework.Main
+--interp
